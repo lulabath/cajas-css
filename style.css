@@ -1,0 +1,92 @@
+body {background-color: black;}
+
+
+.bandera-argentina{background-color: white;
+    width: 300px;
+    height: 200px;
+    margin: auto;
+    margin-bottom: 20px;
+    border: 1.5px solid white;}
+.arg-franja-celeste{background-color:cornflowerblue;
+    height: 33.33%;}
+.arg-franja-blanca{background-color: white;
+    height: 33.33%;}
+.arg-franja-celeste{background-color: cornflowerblue;
+    height: 33.33%;}
+
+.bandera-mexico{background-color:white;
+    width: 300px;
+    height: 200px;
+    margin: auto;
+    margin-bottom: 20px;
+    border: 1.5px solid white;}
+.mex-franja-verde{background-color: rgb(0, 104, 71);
+    width: 33.33%;
+    height: 100%;
+    float: left;}
+.mex-franja-blanca{background-color: #fff;
+    width: 33.33%;
+    height: 100%;
+    float: left;}
+.mex-franja-roja{background-color: #ce1126;
+    width: 33.33%;
+    height: 100%;
+    float: right;}
+
+.bandera-francia{background-color: white;
+    width: 300px;
+    height: 200px;
+    margin: auto;
+    margin-bottom: 20px;
+    border: 1.5px solid white;}
+.fr-franja-azul{background-color:darkblue;
+    width: 33.33%;
+    height: 100%;
+    float: left;}
+.fr-franja-blanca{background-color: white;
+    width: 33.33%;
+    height: 100%;
+    float: left;}
+.fr-franja-roja{background-color:rgb(221, 5, 5);
+    width: 33.33%;
+    height: 100%;
+    float: left;}
+
+.bandera-alemania{background-color: white;
+    width: 300px;
+    height: 200px;
+    margin: auto;
+    margin-bottom: 20px;
+    border: 1.5px solid white;}
+.ale-franja-negro{background-color: black;
+    height: 33.33%;}
+.ale-franja-rojo{background-color: red;
+    height: 33.33%;}
+.ale-franja-amarillo{background-color:rgb(248, 180, 8);
+    height: 33.33%;}
+
+.bandera-colombia{background-color: white;
+    width: 300px;
+    height: 200px;
+    margin: auto;
+    margin-bottom: 20px;
+    border: 1.5px solid white;}
+.co-franja-amarilla{background-color: rgb(248, 190, 44);
+    height:50%;}
+.co-franja-azul{background-color:darkblue;
+    height: 25%;}
+.co-franja-roja{background-color: firebrick;
+    height: 25%;}
+
+.bandera-holanda{background-color: white;
+    width: 300px;
+    height: 200px;
+    margin: auto;
+    margin-bottom: 20px;
+    border: 1.5px solid white;}
+.ho-franja-roja{background-color: rgb(153, 15, 15);
+    height: 33.33%;}
+.ho-franja-blanca{background-color: white;
+    height: 33.33%;}
+.ho-franja-azul{background-color: darkblue;
+    height: 33.33%;}
